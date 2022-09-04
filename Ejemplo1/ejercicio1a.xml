@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo1a.css" ?>
+
+<fichero>
+
+<ficha id="2" fechaingreso="1/10/2018">
+
+<nombre>Tomas</nombre>
+<apellido>Romero</apellido>
+<direccion>San Salvador, El Salvador</direccion>
+<telefono>76485424</telefono>
+<email>rc18087@ues.edu.sv</email>
+<website>http://xml.sucarnet.tpi</website>
+
+</ficha>
+
+
+</fichero>

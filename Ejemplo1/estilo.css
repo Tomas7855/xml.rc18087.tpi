@@ -1,0 +1,8 @@
+/* ejemplo.css RC18087 */
+fichero {background-color:blue; justify-content: center; align-items: center;}
+
+ficha {background-color:red; display:flex; justify-content: center; align-items: center; flex-direction: column;}
+
+nombre {color:yellow; display:flex; margin-left: 4px;} 
+apellido {color:yellow; display:flex; margin-left: 4px;}
+direccion {color:yellow; display:flex; margin-left: 4px;}

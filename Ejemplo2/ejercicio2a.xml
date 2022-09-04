@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="styles2a.css" ?>
+
+<pais nombre ="El Salvador">
+
+<departamento id="2" nombre="San Salvador">
+
+<cabecera>San Salvador</cabecera>
+<habitantes>2,750,000</habitantes>
+<altura>460 MSNM</altura>
+<areaTerritorial>21.041 km cuadrados</areaTerritorial>
+
+</departamento>
+
+<caracteristicas  nombre="El Salvador">
+
+<moneda>USD</moneda>
+<codigoArea>+503</codigoArea>
+
+</caracteristicas>
+
+<idiomas nombre="El Salvador">
+
+<idiomaOficial>Español</idiomaOficial>
+<idiomaAutoctono>Pipil o Nahuat</idiomaAutoctono>
+
+</idiomas>
+
+</pais>

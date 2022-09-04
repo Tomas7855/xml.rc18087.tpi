@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="styles2b.css" ?>
+
+<pais nombre ="El Salvador">
+
+<departamento id="3" nombre="San Miguel">
+
+<cabecera>San Miguel</cabecera>
+<habitantes>265,921</habitantes>
+<altura>129 MSNM</altura>
+<areaTerritorial>594 km cuadrados</areaTerritorial>
+
+</departamento>
+
+<caracteristicas  nombre="San Miguel">
+
+<moneda>USD</moneda>
+<codigoArea>+503</codigoArea>
+
+</caracteristicas>
+
+<idiomas nombre="San Miguel">
+
+<idiomaOficial>Español</idiomaOficial>
+<idiomaAutoctono>Pipil o Nahuat</idiomaAutoctono>
+
+</idiomas>
+
+</pais>

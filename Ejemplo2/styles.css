@@ -1,0 +1,8 @@
+/* styles2a.css RC18087 */
+pais {width: 100vw; height: 100vh; background-color:#002B5B; justify-content: center; align-items: center; display:flex; justify-content: center;}
+
+departamento {width: 95vw; height: 95vh; background-color:#256D85; display:flex; justify-content: center; align-items: center; flex-direction: column;}
+
+cabecera {color:#8FE3CF; display:flex; margin-left: 10px;} 
+habitantes {color:#8FE3CF; display:flex; margin-left: 5px;}
+altura {color:#8FE3CF; display:flex; margin-left: 10px;}

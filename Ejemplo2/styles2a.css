@@ -1,0 +1,20 @@
+/* styles2b.css RC18087 */
+pais {background-color:brown; justify-content: center; align-items: center;}
+
+departamento {background-color:yellow; display:flex; justify-content: center; align-items: center;}
+
+cabecera {color:black; display:flex; margin-left: 10px;} 
+
+habitantes {color:black; display:flex; margin-left: 5px;}
+altura {color:black; display:flex; margin-left: 10px;}
+areaTerritorial {color:black; display:flex; margin-left: 10px;}
+
+caracteristicas {background-color:yellow; display:flex; justify-content: center; align-items: center;}
+
+moneda {color:black; display:flex; margin-left: 10px;}
+codigoArea {color:black; display:flex; margin-left: 10px;}
+
+idiomas {background-color:yellow; display:flex; justify-content: center; align-items: center;}
+
+idiomaOficial {color:black; display:flex; margin-left: 10px;}
+idiomaAutoctono {color:black; display:flex; margin-left: 10px;}

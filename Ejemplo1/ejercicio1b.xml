@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo1b.css" ?>
+<fichero>
+
+<ficha id="3" fechaingreso="1/10/2018">
+
+<nombre>Eduardo</nombre>
+<apellido>Cañas</apellido>
+<direccion>San Salvador, El Salvador</direccion>
+<telefono>79989436</telefono>
+<email>rc18087@ues.edu.sv</email>
+<website>http://xml.sucarnet.tpi</website>
+<dui>10254874-8</dui>
+<isss>12456789865-568</isss>
+<afp>afp crecer 7895458789-987</afp>
+
+</ficha>
+
+
+</fichero>

@@ -1,0 +1,11 @@
+/* ejemplo1a.css RC18087 */
+fichero {background-color:black; justify-content: center; align-items: center;}
+
+ficha {background-color:red; display:flex; justify-content: center; align-items: center; flex-direction: column;}
+
+nombre {color:yellow; display:flex; margin-left: 10px;} 
+apellido {color:yellow; display:flex; margin-left: 5px;}
+direccion {color:yellow; display:flex; margin-left: 10px;}
+telefono {color:yellow; display:flex; margin-left: 10px;} 
+email {color:yellow; display:flex; margin-left: 10px;}
+website {color:yellow; display:flex; margin-left: 10px;}

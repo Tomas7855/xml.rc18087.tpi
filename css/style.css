@@ -1,0 +1,59 @@
+main {
+    margin: 0;
+    padding: 10px;
+    background-color: silver;
+  }
+  
+  main > h1, table {
+    margin: 10px;
+    padding: 10px;
+    color: white;
+  }
+  
+  table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    color: white;
+    
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+    
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+    color: white;
+  }
+
+  datos {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;;
+  }
+
+  body{
+    background: black;
+  }
+
+  h1{
+    color: white;
+    text-align: center;
+  }
+
